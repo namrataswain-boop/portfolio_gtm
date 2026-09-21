@@ -217,7 +217,8 @@ section {
 .about-content {
   max-width: 800px;
   margin: 0 auto 50px;
-  text-align: center;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .about-content p {
